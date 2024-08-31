@@ -1,0 +1,21 @@
+
+# Archivos de entorno
+.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+
+# Archivos de configuración de editor
+.vscode/
+.idea/
+*.swp
+
+# Archivos de log
+*.log
